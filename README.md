@@ -1,1 +1,1 @@
-# op-recipies
+# op-recipes
